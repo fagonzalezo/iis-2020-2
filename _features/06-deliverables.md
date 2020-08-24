@@ -14,22 +14,22 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
 
 ## Curso 1: Neural Networks and Deep Learning
 
-* **Entrega 1** (17/05/2020): 
+* **Entrega 1** (1/11/2020): 
   * Cuestionarios: 1, 2
   * Tareas de Programación: 1, 2
   * Link: [file request](https://www.dropbox.com/request/WxhyhBN81fKq1fKn4NsW)
-* **Entrega 2** (24/05/2020):
+* **Entrega 2** (8/11/2020):
   * Cuestionarios: 3, 4
   * Tareas de Programación: 3, 4
   * Link: [file request](https://www.dropbox.com/request/yIq5uiKopogkff8ZBNkM)
 
 ## Curso 2: Improving Deep Neural Networks
 
-* **Entrega 3** (31/05/2019):
+* **Entrega 3** (15/11/2019):
   * Cuestionarios: 1
   * Tareas de Programación: 1, 2, 3
   * Link: [file request](https://www.dropbox.com/request/bdpNqKim3q3WJtMs4gkY)
-* **Entrega 4** (7/06/2019):
+* **Entrega 4** (22/11/2020):
   * Cuestionarios: 2, 3
   * Tareas de Programación: 4, 5
   * Link: [file request](https://www.dropbox.com/request/9z1P7NBFtdf6Gn0ROtuz)
@@ -37,7 +37,7 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
 
 ## Curso 3: Structuring Machine Learning Projects
 
-* **Entrega 5** (14/06/2019):
+* **Entrega 5** (29/11/2020):
   * Cuestionarios: 1, 2
   * Link: [file request](https://www.dropbox.com/request/qsqMTg1M73Qzzev3EZ5f)
   
