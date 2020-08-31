@@ -22,6 +22,7 @@ image:
 					[AI-edX] Introduction to AI (<a href= "http://ai.berkeley.edu/slides/Lecture%201%20--%20Introduction/SP14%20CS188%20Lecture%201%20--%20Introduction.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/b414886f442a41e4b5fd0408de837e53/">video</a>)<br>
 					<a href= "https://github.com/fagonzalezo/iis-2018-2/blob/master/catedra-cc-unal.pdf">Inteligencia Artificial</a>, Fabio González <br>
 					<a href= "https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn">The Wonderful and Terrifying Implications of Computers That Can Learn</a>, Jeremy Howard, TED	<br>
+					Clase Ago 26 (<a href= "https://drive.google.com/file/d/16wHaIRn0GCoephK_uLCROw9V6CcvTf37/view?usp=sharing">video</a>)<br> 
 				</td>
 				<td>
 				</td>
