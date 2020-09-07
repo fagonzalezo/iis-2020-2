@@ -49,6 +49,7 @@ image:
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
 				</td>
 				<td>
+				<a href= "https://colab.research.google.com/drive/1oADG41GdAoX9em_AccBT-iC6unwLEjYU?usp=sharing">Práctica 0 </a>
 				</td>
 			</tr>
 			<tr>
