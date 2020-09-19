@@ -46,7 +46,7 @@ image:
 				</td>
 				<td>
 					[AI-edX] Agents and Search (<a href= "http://ai.berkeley.edu/slides/Lecture%202%20--%20Uninformed%20Search/SP14%20CS188%20Lecture%202%20--%20Uninformed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/7c56230af88d467c9737344e2e76092e/">video</a>)<br>					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
-					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
+					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a><br>
 					Clase Sep 7 (<a href= "https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing">video</a>)<br>					
 				</td>
 				<td>
@@ -62,6 +62,8 @@ image:
 					[Russell10] Chap 3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)  and Chap 4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					[AI-edX] A* Search and Heuristics (<a href= "http://ai.berkeley.edu/slides/Lecture%203%20--%20Informed%20Search/SP14%20CS188%20Lecture%203%20--%20Informed%20Search.pptx">slides</a>) (<a href= "https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/courseware/a2dc8e2add91416a8f2a64410b3bf8e0/76f9a53b7aad47638ff968db5938d841/">video</a>)<br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a>
+					Clase Sep 14 (<a href= "https://drive.google.com/file/d/1oTtFMYrqQECkB_XfkYpsZItmpyWqfTIL/view?usp=sharing">video</a>)<br>
+					Clase Sep 16 (<a href= "https://drive.google.com/file/d/1ATKLXE2cxSo8YXuklzXAU6aI7OLvSvGy/view?usp=sharing">video</a>)<br>					
 				</td>
 				<td>
 				</td>
