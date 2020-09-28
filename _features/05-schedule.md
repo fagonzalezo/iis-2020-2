@@ -76,7 +76,9 @@ image:
 				<td>
 					[Russell10] Sect 18.1, 18.2, 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					An Introduction to Machine Learning (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)<br>
-					<a href= "https://colab.research.google.com/drive/1VbuNvx8g3p93bKR7ZUccrb8c5vEzVQdS">Notebook: Clasificación binaria usando un modelo lineal</a><br>
+					<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">Notebook: Clasificación binaria usando un modelo lineal</a><br>
+					Clase Sep 21 (<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view?usp=sharing">video</a>)<br>
+					Clase Sep 23 (<a href= "https://drive.google.com/file/d/12jIt3OVI8T2F4LXPQXBCaO79u4bew8if/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
