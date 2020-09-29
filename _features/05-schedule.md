@@ -93,6 +93,7 @@ image:
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1HIRYXNv9Qj10ja4GrCfRyq3RYBVIO_Ck">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
+					Clase Sep 28 (<a href= "https://drive.google.com/file/d/1RHOZ6fvOweeMeJIvhGTBEyGbB1nEdpuZ/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
