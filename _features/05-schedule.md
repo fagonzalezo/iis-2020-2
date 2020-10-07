@@ -84,7 +84,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 28</td>
+				<td>Sep 28-Oct 5</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -94,15 +94,17 @@ image:
 					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a>
 					Clase Sep 28 (<a href= "https://drive.google.com/file/d/1RHOZ6fvOweeMeJIvhGTBEyGbB1nEdpuZ/view?usp=sharing">video</a>)<br>
+					Clase Oct 5 (<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 5</td>
+				<td>Oct 12</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
+					Árboles de Decisión (<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">video</a>)<br>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
@@ -110,7 +112,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 12</td>
+				<td>Oct 19</td>
 				<td>
 					3.2.4 Support vector machines<br>
 				</td>
