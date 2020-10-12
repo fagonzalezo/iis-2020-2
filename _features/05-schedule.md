@@ -104,7 +104,7 @@ image:
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
-					Árboles de Decisión (<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">video</a>)<br>
+					Árboles de Decisión (<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view">video</a>)<br>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
