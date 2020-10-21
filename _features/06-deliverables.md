@@ -17,29 +17,29 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
 * **Entrega 1** (1/11/2020): 
   * Cuestionarios: 1, 2
   * Tareas de Programación: 1, 2
-  * Link: [file request](https://www.dropbox.com/request/WxhyhBN81fKq1fKn4NsW)
+  * Link: [file request](https://www.dropbox.com/request/JO5DG0aIFP6RGFlNp4RH)
 * **Entrega 2** (8/11/2020):
   * Cuestionarios: 3, 4
   * Tareas de Programación: 3, 4
-  * Link: [file request](https://www.dropbox.com/request/yIq5uiKopogkff8ZBNkM)
+  * Link: [file request](https://www.dropbox.com/request/ui5uYKaPgalyKrEzWGaq)
 
 ## Curso 2: Improving Deep Neural Networks
 
 * **Entrega 3** (15/11/2019):
   * Cuestionarios: 1
   * Tareas de Programación: 1, 2, 3
-  * Link: [file request](https://www.dropbox.com/request/bdpNqKim3q3WJtMs4gkY)
+  * Link: [file request](https://www.dropbox.com/request/eMu3daHsogeFJgYfjHXa)
 * **Entrega 4** (22/11/2020):
   * Cuestionarios: 2, 3
   * Tareas de Programación: 4, 5
-  * Link: [file request](https://www.dropbox.com/request/9z1P7NBFtdf6Gn0ROtuz)
+  * Link: [file request](https://www.dropbox.com/request/kJboYobyrRXehNDUt3AF)
 
 
 ## Curso 3: Structuring Machine Learning Projects
 
 * **Entrega 5** (29/11/2020):
   * Cuestionarios: 1, 2
-  * Link: [file request](https://www.dropbox.com/request/qsqMTg1M73Qzzev3EZ5f)
+  * Link: [file request](https://www.dropbox.com/request/0mheM9K03vmYfq5Txz5Q)
   
 
 
