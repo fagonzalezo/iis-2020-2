@@ -14,7 +14,7 @@ Los archivos deben enviarse a través del *File Request* correspondiente antes d
 
 ## Curso 1: Neural Networks and Deep Learning
 
-* **Entrega 1** (1/11/2020): 
+* **Entrega 1** (2/11/2020): 
   * Cuestionarios: 1, 2
   * Tareas de Programación: 1, 2
   * Link: [file request](https://www.dropbox.com/request/JO5DG0aIFP6RGFlNp4RH)
