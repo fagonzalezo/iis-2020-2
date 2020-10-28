@@ -121,6 +121,8 @@ image:
 					[Russell10] Sect 18.9 y 18.10 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1kfy-4I9OyP7rQTdbsNs5UoM6GVi0Ig4P?usp=sharing">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 					<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">Notebook: Random Forests y exploración aleatorizada</a><br>
+					Clase Oct 19 (<a href= "https://drive.google.com/file/d/1rnsdK_Zgm-fNpo71fwZd5sA2xHFOp2YV/view?usp=sharing">video</a>)<br>
+					Clase Oct 21 (<a href= "https://drive.google.com/file/d/1Ssqyjo6g_UdYaq-kEe5HmBmnO5gI_ybY/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
@@ -135,7 +137,7 @@ image:
 					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					[Alp10] Chap 11  (<a href= "https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>) <br>
 					<a href= "https://playground.tensorflow.org/">Neural Network Playground</a><br>
-					<a href= "https://colab.research.google.com/drive/1DTfTwf-vEBHYxeIlbvPxcpWqlzEE2mbd">Notebook: Redes Neuronales</a><br>
+					<a href= "https://colab.research.google.com/drive/167WK7Ts3Z5gVhPshFwFh0F36PyzZev_4?usp=sharing">Notebook: Redes Neuronales</a><br>
 					<a href= "https://colab.research.google.com/drive/1LzTwgL3jL1L58lQqe29F4TXw_KqA08ak">Notebook: Neural Networks in Keras</a><br>
 				</td>
 				<td>
