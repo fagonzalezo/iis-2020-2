@@ -209,6 +209,7 @@ image:
 				<td>
 				</td>
 				<td>
+					<a href= "Proyecto Final ISI_2020_2.pdf">Proyecto Final </a>
 				</td>				
 			</tr>
 		</small>
