@@ -12,4 +12,4 @@ image:
 * Entregas EDL Coursera 20%
 * Proyecto 15%
 
-[Notas](https://docs.google.com/spreadsheets/d/1o1bd9CFwGZBipD9SUCY5STZ4M9NNAx1bZb_6Gqd_aPU/edit?usp=sharing)
+[Notas](https://docs.google.com/spreadsheets/d/1wm-0ATu49UQ6R_oDRoPn0kETzNlMNQqngP_3U9_epnE/edit?usp=sharing)
